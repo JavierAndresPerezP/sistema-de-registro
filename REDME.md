@@ -5,3 +5,4 @@
   Para ejecutar el sistema debes poner:
 
 ```npd isntall react```
+Sistema de registro 2
